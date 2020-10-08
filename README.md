@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple multistep form using React and MaterialUI, following the tutorial by [TraverstyMedia](https://www.youtube.com/watch?v=zT62eVxShsY)
 
 ## Available Scripts
 
