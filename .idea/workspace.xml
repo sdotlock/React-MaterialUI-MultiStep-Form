@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b47d7e4c-91ba-47c2-822d-c057237fb746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Confirm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormPersonalDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FormUserDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Success.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserForm.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,18 +66,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602106927097</updated>
-      <workItem from="1602106929661" duration="7005000" />
+      <workItem from="1602106929661" duration="7777000" />
     </task>
+    <task id="LOCAL-00001" summary="Built react form through the day.">
+      <created>1602128940758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602128940758</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Built react form through the day." />
+    <option name="LAST_COMMIT_MESSAGE" value="Built react form through the day." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="155" y="-1004" key="CommitChangelistDialog2" timestamp="1602128805058">
+    <state x="155" y="-1004" key="CommitChangelistDialog2" timestamp="1602128940617">
       <screen x="-257" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="155" y="-1004" key="CommitChangelistDialog2/0.23.1440.812/-257.-1057.1920.1057@-257.-1057.1920.1057" timestamp="1602128805058" />
+    <state x="155" y="-1004" key="CommitChangelistDialog2/0.23.1440.812/-257.-1057.1920.1057@-257.-1057.1920.1057" timestamp="1602128940617" />
     <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1602128470534">
       <screen x="-257" y="-1057" width="1920" height="1057" />
     </state>
@@ -103,10 +106,10 @@
       <screen x="-257" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.812/-257.-1057.1920.1057@-257.-1057.1920.1057" timestamp="1602128470533" />
-    <state x="144" y="-866" key="Vcs.Push.Dialog.v2" timestamp="1602128789362">
+    <state x="144" y="-866" key="Vcs.Push.Dialog.v2" timestamp="1602129468930">
       <screen x="-257" y="-1057" width="1920" height="1057" />
     </state>
-    <state x="144" y="-866" key="Vcs.Push.Dialog.v2/0.23.1440.812/-257.-1057.1920.1057@-257.-1057.1920.1057" timestamp="1602128789362" />
+    <state x="144" y="-866" key="Vcs.Push.Dialog.v2/0.23.1440.812/-257.-1057.1920.1057@-257.-1057.1920.1057" timestamp="1602129468930" />
     <state x="143" y="-969" width="782" height="729" key="find.popup" timestamp="1602125884866">
       <screen x="-257" y="-1057" width="1920" height="1057" />
     </state>
